@@ -1,6 +1,6 @@
 <!-- Agregar banner -->
 
-<span>![</span><span>Sala de Desarrollo</span><span>]</span><span>(</span>![devroom](https://github.com/user-attachments/assets/0736afec-bf09-4582-a131-35c0e093b18d)
+<span>![</span><span>Sala de Desarrollo</span><span>]</span>![devroom](https://github.com/user-attachments/assets/0736afec-bf09-4582-a131-35c0e093b18d)
 
 <h1 align="center">¡Hola!👋🏼, me llamo Nelson Herrera Diaz🚀</h1>
 
