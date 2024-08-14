@@ -1,5 +1,5 @@
 <!-- Agregar banner -->
-![Alt text](relative/path/to/assets/devroom.gif?raw=true "Title")
+![alt text](http://url/to/devroom.gif)
 ![Banner Nelsonherrera2024](./assets/devroom.gif)
 
 <h1 align="center">¡Hola!👋🏼, me llamo Nelson Herrera Diaz🚀</h1>
