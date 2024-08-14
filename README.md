@@ -1,5 +1,5 @@
 <!-- Agregar banner -->
-![Banner Nelsonherrera2024]([./assets/devroom.gif](https://github.com/Nelsonherrera2024/Nelsonherrera2024/blob/main/assest/devroom.gif))
+![Banner Nelsonherrera2024](./assets/devroom.gif)-(https://github.com/Nelsonherrera2024/Nelsonherrera2024/blob/main/assest/devroom.gif))
 
 <h1 align="center">¡Hola!👋🏼, me llamo Nelson Herrera Diaz🚀</h1>
 
