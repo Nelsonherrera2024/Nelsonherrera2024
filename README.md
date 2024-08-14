@@ -1,6 +1,7 @@
 <!-- Agregar banner -->
 
-  <a href="https://raw.githubusercontent.com/Nelsonherrera2024/README.md/main/ruta/assest/devroom.gir" target="_blank"><img align="center"/></a>
+<span>![</span><span>Sala de Desarrollo ![devroom](https://github.com/user-attachments/assets/fd274a4d-86eb-4089-8fc0-dcccb41b7062)
+</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
 
 <h1 align="center">¡Hola!👋🏼, me llamo Nelson Herrera Diaz🚀</h1>
 
