@@ -1,6 +1,9 @@
-https://github.com/Nelsonherrera2024/Nelsonherrera2024/raw/main/assets/devroom.gif
+
 assets/devroom.gif
 
+<p aline="center>
+  <a href="https://avatars.githubusercontent.com/u/157047665?v=4" target="_blank"><img align="center" width="48px" alt="LinkedIn" title="LinkedIn"/></p>a>
+</p> 
 <!-- Agregar banner -->
 ![Banner Nelsonherrera2024](./assets/devroom.gif)
 
