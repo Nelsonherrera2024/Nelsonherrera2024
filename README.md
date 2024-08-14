@@ -1,11 +1,9 @@
 
-assets/devroom.gif
-
 <p aline="center>
-  <a href="https://avatars.githubusercontent.com/u/157047665?v=4" target="_blank"><img align="center" width="48px" alt="LinkedIn" title="LinkedIn"/></p>a>
+  <a href="https://avatars.githubusercontent.com/u/157047665?v=4" target="_blank"><img align="center" width="48px"/></a>
 </p> 
 <!-- Agregar banner -->
-![Banner Nelsonherrera2024](./assets/devroom.gif)
+
 
 <h1 align="center">¡Hola!👋🏼, me llamo Nelson Herrera Diaz🚀</h1>
 
