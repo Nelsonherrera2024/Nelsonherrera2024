@@ -43,11 +43,11 @@
 </p>
 
 <p align="center">
-  <img alt="CarlosEspiPliego's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CarlosEspiPliego&show_icons=true&theme=transparent&hide_border=true"/>
+  <img alt="Nelsonherrera2024's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nelsonherrera2024&show_icons=true&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img alt="CarlosEspiPliego's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEspiPliego&theme=transparent&langs_count=10&hide_border=true"/>
+  <img alt="Nelsonherrera2024's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelsonherrera2024&theme=transparent&langs_count=10&hide_border=true"/>
 </p>
 
 <h2 align="left">Visitas a mi  Perfil 👀</h2>
