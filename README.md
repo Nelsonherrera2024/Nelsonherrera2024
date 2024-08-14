@@ -1,7 +1,7 @@
 <!-- Agregar banner -->
-![alt text](http://url/to/devroom.gif)
-![Banner Nelsonherrera2024](./assets/devroom.gif)
-
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Nelsonherrera2024/README.md/main/ruta/assest/devroom.gir" target="_blank"><img align="center"/></a>
+</p>
 <h1 align="center">¡Hola!👋🏼, me llamo Nelson Herrera Diaz🚀</h1>
 
 <h3 align="center">👾 Tecnólogo en Análisis y Desarrollo de Sistemas de información, Técnico en Sistemas👨🏻‍💻</h3>
