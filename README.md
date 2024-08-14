@@ -1,7 +1,7 @@
 <!-- Agregar banner -->
 
 <span>"Sala de Desarrollo"</span>[devroom](https://github.com/user-attachments/assets/fd274a4d-86eb-4089-8fc0-dcccb41b7062)
-
+<span></span>
 <h1 align="center">¡Hola!👋🏼, me llamo Nelson Herrera Diaz🚀</h1>
 
 <h3 align="center">👾 Tecnólogo en Análisis y Desarrollo de Sistemas de información, Técnico en Sistemas👨🏻‍💻</h3>
