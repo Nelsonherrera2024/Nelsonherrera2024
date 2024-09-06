@@ -10,7 +10,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nelsonherreradiaz" target="_blank"><img align="center" width="48px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=00EAFF"/></a>
   <a href="https://x.com/Nelson2024Diaz" target="_blank"><img align="center" width="48px" alt="Twitter" title="Twitter"  src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=00EAFF"/></a>
-  <a href="https://www.instagram.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=32309&format=png&color=00EAFF" alt="Github" title="Github" width="48px"/></a>
+  <a href="https://github.com/Nelsonherrera2024/Mi-Portafolio" target="_blank"><img align="center" src="[https://img.icons8.com/?size=100&id=32309&format=png&color=00EAFF](https://img.icons8.com/?size=100&id=61977&format=png&color=000000)" alt="Portafolio"       
+      title="Portafolio" width="48px"/></a>
 </p>
 
 <p align="center">
