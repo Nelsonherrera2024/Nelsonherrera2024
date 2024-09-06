@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nelsonherreradiaz" target="_blank"><img align="center" width="48px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=00EAFF"/></a>
   <a href="https://x.com/Nelson2024Diaz" target="_blank"><img align="center" width="48px" alt="Twitter" title="Twitter"  src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=00EAFF"/></a>
-  <a href="https://github.com/Nelsonherrera2024/Mi-Portafolio" target="_blank">< img width = " 50 " height = " 50 " src = " https://img.icons8.com/?size=100&id=J3nZHWgT1e7m&format=png&color=000000 " alt = " portafolio " /></a>
+  <a href="https://github.com/Nelsonherrera2024/Mi-Portafolio" target="_blank">< img width = " 50 " height = " 50 " src = "https://github.com/Nelsonherrera2024/Nelsonherrera2024/blob/main/assest/icons8-moleskine-26.png" alt = " portafolio " /></a>
 </p>
 
 <p align="center">
