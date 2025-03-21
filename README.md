@@ -16,8 +16,12 @@
 <p align="center">
   <a href="mailto:hdnelson@soy.sena.edu.co"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-<a href="https://app.daily.dev/hdnelson2024"><img src="https://api.daily.dev/devcards/v2/4ncNIgGVTr6iYt69skDkc.png?type=default&r=s3y" width="356" alt="Nelson Herrera Diaz's Dev Card"/></a>
+<br>
 
+<h2 aling="center">Reputación en https://app.daily.dev/</h2>
+<p align="center">
+  <a href="https://app.daily.dev/hdnelson2024"><img src="https://api.daily.dev/devcards/v2/4ncNIgGVTr6iYt69skDkc.png?type=default&r=s3y" width="356" alt="Nelson Herrera Diaz's Dev Card"/></a>
+</p>
 <br>
 
 <p align="left">
