@@ -18,7 +18,7 @@
 </p>
 <br>
 
-<h2 aling="center">Reputación en: daily.dev <a href="https://app.daily.dev/" target="_blank"></a></h2>
+<h2 aling="center">👨🏻‍💻Reputación en: daily.dev 👨🏻‍💻</h2>
 <p align="center">
  <a href="https://app.daily.dev/hdnelson2024" target="_blank"><img src="https://api.daily.dev/devcards/v2/4ncNIgGVTr6iYt69skDkc.png?type=wide&r=s3y" width="652" alt="Nelson Herrera Diaz's Dev Card"/></a>
 </p>
@@ -26,9 +26,9 @@
 
 <p align="left">
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo Web Full Stack** en el programa Talento Tach  de MinTic
+- 🌱 Me estoy actualizando día a día en **Desarrollo Web Full Stack** en varios programas y cursos. 
 
-- 📫 Puedes contactarme en **hdnelson@soy.sena.edu.co** o en cualquiera de mis redes sociales
+- 📫 Puedes contactarme en **hdnelson@soy.sena.edu.co** o en cualquiera de mis redes sociales.
 </p>
 
 <h2 align="left">Tecnologías Conocidas 👨🏻‍💻</h2>
