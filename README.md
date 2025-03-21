@@ -18,7 +18,7 @@
 </p>
 <br>
 
-<h2 aling="center">Reputación en: <a href="https://www.app.daily.dev/" target="_blank"><img https://media.daily.dev/image/upload/s--OW9Gf2rv--/v1739958143/public/daily_dev_logo.png/></h2>
+<h2 aling="center">Reputación en: daily.dev <a href="https://www.app.daily.dev/" target="_blank"><img https://media.daily.dev/image/upload/s--OW9Gf2rv--/v1739958143/public/daily_dev_logo.png/></h2>
 <p align="center">
   <a href="https://app.daily.dev/hdnelson2024"><img src="https://api.daily.dev/devcards/v2/4ncNIgGVTr6iYt69skDkc.png?type=default&r=s3y" width="356" alt="Nelson Herrera Diaz's Dev Card"/></a>
 </p>
