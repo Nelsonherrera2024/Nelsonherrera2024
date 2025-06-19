@@ -28,7 +28,7 @@
 
 - 🌱 Me estoy actualizando día a día en **Desarrollo Web Full Stack** en varios programas y cursos. 
 
-- 📫 Puedes contactarme en **hdnelson@soy.sena.edu.co** o en cualquiera de mis redes sociales.
+- 📫 Puedes contactarme en **hdnelsonalterna2024@gmail.com** o en cualquiera de mis redes sociales.
 </p>
 
 <h2 align="left">Tecnologías Conocidas 👨🏻‍💻</h2>
