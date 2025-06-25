@@ -21,7 +21,6 @@
 <h2 aling="center">👨🏻‍💻Reputación en: daily.dev 👨🏻‍💻</h2>
 <p align="center">
  <a href="https://app.daily.dev/hdnelson2024" target="_blank"><img src="https://api.daily.dev/devcards/v2/4ncNIgGVTr6iYt69skDkc.png?type=wide&r=s3y" width="652" alt="Nelson Herrera Diaz's Dev Card"/></a>
-  <a href="https://app.daily.dev/hdnelson2024"><img src="https://api.daily.dev/devcards/v2/4ncNIgGVTr6iYt69skDkc.png?type=wide&r=hrn" width="652" alt="Nelson Herrera Diaz's Dev Card"/></a>
 </p>
 <br>
 
